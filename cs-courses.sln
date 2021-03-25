@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.809.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dezeshka1", "cs-courses\dezeshka1.csproj", "{8A3A61EC-5D43-4363-9B1C-0A0E93DA9399}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dezeshka2", "dezeshka2\dezeshka2.csproj", "{52F3100B-E253-4F11-8C1D-31C789D25C8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A3A61EC-5D43-4363-9B1C-0A0E93DA9399}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{8A3A61EC-5D43-4363-9B1C-0A0E93DA9399}.Debug|anycpu.Build.0 = Debug|anycpu
+		{8A3A61EC-5D43-4363-9B1C-0A0E93DA9399}.Release|anycpu.ActiveCfg = Release|anycpu
+		{8A3A61EC-5D43-4363-9B1C-0A0E93DA9399}.Release|anycpu.Build.0 = Release|anycpu
+		{52F3100B-E253-4F11-8C1D-31C789D25C8C}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{52F3100B-E253-4F11-8C1D-31C789D25C8C}.Debug|anycpu.Build.0 = Debug|anycpu
+		{52F3100B-E253-4F11-8C1D-31C789D25C8C}.Release|anycpu.ActiveCfg = Release|anycpu
+		{52F3100B-E253-4F11-8C1D-31C789D25C8C}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1DAD1E90-AF3D-44E9-9086-5E8D291C3FDD}
+	EndGlobalSection
+EndGlobal

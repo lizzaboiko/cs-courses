@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{8A3A61EC-5D43-4363-9B1C-0A0E93DA9399}|Default">
+  <MonoDevelop.Ide.ItemProperties.dezeshka2 FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="cs-courses/Program.cs">
+    <Files>
+      <File FileName="cs-courses/Program.cs" Line="3" Column="20" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="cs-courses" expanded="True">
+            <Node name="dezeshka1" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="dezeshka2" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.dezeshka1 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
